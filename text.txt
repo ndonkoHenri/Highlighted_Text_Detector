@@ -1,0 +1,7 @@
+break
+img_stack) # Showing up our stacked images
+success, image = cap.read()
+for img_bg in img_files_bg
+fpsReader = cvzone.FPS()
+# Creation of the threshold trackbar with initial value 15
+# Creation of the Trackbar Window
